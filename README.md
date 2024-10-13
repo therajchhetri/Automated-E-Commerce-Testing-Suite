@@ -1,5 +1,3 @@
-<h1>Automated E-commerce Testing Suite</h1>
-
 <h2 id="overview">📖 Overview</h2>
 <p>
     The <strong>Automated E-commerce Testing Suite</strong> is a comprehensive test automation framework designed to verify and validate the functionality, performance, and security of an e-commerce platform. It automates various user flows such as product search, cart management, checkout, payment, and user registration using <strong>Cucumber</strong> for behavior-driven development (BDD) and <strong>Java</strong> as the programming language.
